@@ -1,3 +1,10 @@
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![pgAdmin](https://img.shields.io/badge/Tool-pgAdmin-blue)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellowgreen)
+
+
 # Northwind SQL Analysis Project
 
 This project showcases exploratory SQL analysis using the classic **Northwind** database. The goal was to uncover meaningful business insights using beginner to intermediate SQL queries and present them in a clean, structured format.
